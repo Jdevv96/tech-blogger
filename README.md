@@ -3,6 +3,9 @@ Thanks for checking out my project! Follow me through my journey as I tackle new
 
 ## Summary: 
 The idea behind Tech-Blogger, is an app that'll house and document my progress and journey as a developer, offering more insight on what projects I'm working on, tools I'm practicing and much more. Not only as a way to hold myself accountable in learning in this ever-evolving world of tech, but also to offer help and guidance to any fellow developers on their journey.
+<br>
+  ### Database Setup:
+  ![Alt text](/images/tech_blogger_db_schema.png)
 
 ## End Goal:
 The overall goal is to have a fully functional and responsive blog app that allows for various roles and features for users and non-users alike. There will be resources and articles documenting the different projects, timelines, struggles and helpful hints for any developers finding themselves stuck as well.
