@@ -38,12 +38,12 @@ Back-End:
   <hr>
   Challenges: 
   
-  Implementing the authentication filter was the most challenging part so far, as it's a delicate process and I needed to make sure I got the steps right in order to propery filter each request.
+  Implementing the authentication filter was the most challenging part so far, as it's a delicate process and I needed to make sure I got the steps right in order to properly filter each request.
   <br>
   <hr>
   Timeline:
   
-  To keep the project to a managable length, I wanted to give myself a 7 days to learn more about Spring Security and particularly about implementing Authorization and Authentication tehcniques when paired with Spring Security 6. 
+  To keep the project to a manageable length, I wanted to give myself a 7 days to learn more about Spring Security and particularly about implementing Authorization and Authentication techniques when paired with Spring Security 6. 
   
   Sprint Start: 6/19/23
   
